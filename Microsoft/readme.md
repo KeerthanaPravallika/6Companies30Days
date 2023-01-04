@@ -4,3 +4,4 @@
 2. [Combination Sum with a twist.](https://leetcode.com/problems/combination-sum-iii/)
 3. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 4. [You are given an integer array nums of length n. Return maximum length of Rotation Function.](https://leetcode.com/problems/rotate-function/)
+15. [Substrings containing all three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
